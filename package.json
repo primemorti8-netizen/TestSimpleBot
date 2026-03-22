@@ -1,0 +1,25 @@
+{
+  "name": "lighttesttosimple",
+  "version": "1.0.0",
+  "description": "V ближайших обновлениях появится интеграция с AI (ответы через языковые модели, умная автомодерация)\r По поводу коллаборации писать - @lightup0671",
+  "main": "06-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primemorti8-netizen/TestSimpleBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/primemorti8-netizen/TestSimpleBot/issues"
+  },
+  "homepage": "https://github.com/primemorti8-netizen/TestSimpleBot#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1"
+  }
+}
